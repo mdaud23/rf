@@ -5,4 +5,6 @@
 5. $P_{\text{dbm}} = 10\log(P/1 \text{ mW})$
 6. Receiver Front-End: bagian antenna up to mixer. pada bagian ini, sinyal masih di rf, setelahnya akan direndahkan jadi if
 7. Full duplex is simultaneously trasceive, half-duplex take turns
-8. 
+8. Traveling-wave antennas have wider bandwidth than resonant antennas
+9. pastinya ada trade-off between cost dan design, misalnya pada antenna
+10. 
