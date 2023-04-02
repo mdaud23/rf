@@ -7,4 +7,4 @@
 7. Full duplex is simultaneously trasceive, half-duplex take turns
 8. Traveling-wave antennas have wider bandwidth than resonant antennas
 9. pastinya ada trade-off between cost dan design, misalnya pada antenna
-10. 
+10. miixer digunakan untuk frequency shifting, juga modulasi dan demodulasi karena ada proses konvolusi
