@@ -10,3 +10,4 @@
 10. miixer digunakan untuk frequency shifting, juga modulasi dan demodulasi karena ada proses konvolusi
 11. when phase between signals changes it means that they have different frequencies
 12. when phase difference remains constant frequencies are equal
+13. FM lebih lebar bandwidth-nya dibandingkan AM, dan lebih tahan noise
