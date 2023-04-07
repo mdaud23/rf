@@ -11,3 +11,5 @@
 11. when phase between signals changes it means that they have different frequencies
 12. when phase difference remains constant frequencies are equal
 13. FM lebih lebar bandwidth-nya dibandingkan AM, dan lebih tahan noise
+14. Non-Linearity caused compression and Frekuensi Harmonik
+15. phasor ditentukan berdasarkan persamaan umum $A\cos{\omega t + \phi}$
