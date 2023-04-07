@@ -13,3 +13,5 @@
 13. FM lebih lebar bandwidth-nya dibandingkan AM, dan lebih tahan noise
 14. Non-Linearity caused compression and Frekuensi Harmonik
 15. phasor ditentukan berdasarkan persamaan umum $A\cos{\omega t + \phi}$
+16. Matching to prevent reflection, hence transfer the maximum power
+17. Matching bisa dibuat dari sirkuit RLC
