@@ -15,3 +15,4 @@
 15. phasor ditentukan berdasarkan persamaan umum $A\cos{\omega t + \phi}$
 16. Matching to prevent reflection, hence transfer the maximum power
 17. Matching bisa dibuat dari sirkuit RLC
+18. Smith-chart for complex number
