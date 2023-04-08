@@ -16,3 +16,7 @@
 16. Matching to prevent reflection, hence transfer the maximum power
 17. Matching bisa dibuat dari sirkuit RLC
 18. Smith-chart for complex number
+19. Simulation software: ADS (Advanced Design System), Cadence Design System, Applied Wave Research, Comuputer Simulation Technology, High Frequency Structural Simulator
+20. Main RF Test Equipment: Spectrum Analyzer, Signal Analyzer, Network Analyzer, Power Meter, Signal Generator'
+21. Software for Automation: LabView, Python, Perl, Matlab, C++
+22. Automation avoids human error
